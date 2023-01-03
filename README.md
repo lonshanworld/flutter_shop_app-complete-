@@ -1,16 +1,19 @@
-# myShop
+# myShop_app(Complete)
 
-A new Flutter project.
 
-## Getting Started
+## Main features
+  1. Firebase Authentication and RealtimeDatabase
+  2. Both Admin and Use Controls
+  3. Firebase with CRUD functions
+  
 
-This project is a starting point for a Flutter application.
+## Check these videos for details
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/110902058/210420686-ba845c79-89d8-417f-9705-87cddcfdb88f.mp4
+
+
+
+https://user-images.githubusercontent.com/110902058/210420767-ef022330-dffe-495e-bf62-a5978e8deb5c.mp4
+
